@@ -1,0 +1,6 @@
+<resources>
+    <string name="app_name">Gabri APP</string>
+    <string name="titulo_pagina">Pagina Inicial</string>
+    <string name="edttxt_email">exemplo@exemplo.com.br</string>
+    <string name="btnAcessar">Acessar</string>
+</resources>
